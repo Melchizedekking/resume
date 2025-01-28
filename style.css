@@ -1,0 +1,13 @@
+li{
+  list-style: none;
+}
+
+a{
+  color: red;
+  text-decoration: none;
+}
+
+.project-link{
+  display: flex;
+  gap: 2rem;
+}
